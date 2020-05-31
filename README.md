@@ -1,3 +1,1 @@
-# football_data
-
-Contains scripts to the scrape data from transfermarkt.co.uk
+A collection of scripts in both Python & R which scrape information to do with football from various different locations.
